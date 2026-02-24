@@ -6,15 +6,15 @@ Descripció
 Aquest repositori és del meu projecte d’un chatbot. La idea és crear una pàgina web on es pugui utilitzar el chatbot de manera fàcil.
 
 Objectiu
-Vull fer una web on els usuaris puguin parlar amb el chatbot i obtenir respostes sobre diferents temes.
+Vull fer una web on els usuariis puguin parlar amb el chatbot i obtenir respostes sobre diferents temes.
 
 Què inclou el projecte?
 - Un chatbot programat en Python  
-- Una futura interfície web per poder parlar amb ell  
+- Una futura interfície web per ipoder parlar amb ell  
 - Possibilitat d’afegir millores més endavant  
 
 Tecnologies
 Utilitzaré Python per al chatbot i tecnologies web per crear la pàgina.
 
-## Estat actual
-El projecte encara està en desenvolupament i l’aniré millorant poc a poc.
+Estat actual
+El proj ecte encara està en desenvolupament i l’aniré millorant poc a poc.
